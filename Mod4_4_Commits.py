@@ -1,3 +1,5 @@
+# Pull Request - Teste
+
 # Programa que pede dois números inteiros e verifica se são iguais ou diferentes
 
 # Pedir o primeiro número ao utilizador
