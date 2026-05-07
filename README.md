@@ -16,3 +16,10 @@ Exemplos de conteúdos incluídos:
 - Exercícios sobre estruturas de dados;
 - Exercícios sobre conceitos genéricos de programação;
 - Atividades relacionadas com Git e GitHub.
+
+## Instruções
+
+Para executar um dos ficheiros Python, deve abrir o terminal na pasta do repositório e utilizar o seguinte comando:
+
+```bash
+python nome_do_ficheiro.py
